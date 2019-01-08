@@ -16,6 +16,8 @@ public class ProcessInformation {
         System.out.println("Command:   " + current.info().command());
         System.out.println("CPU-Usage: " + current.info().totalCpuDuration());
 		
+        
+//        test
 	}
 
 }
